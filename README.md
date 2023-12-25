@@ -1,1 +1,1 @@
-# django-azure-demo
+# django_azure_demo
